@@ -1,0 +1,2 @@
+# tictactoe
+Amőba játék készítése.
